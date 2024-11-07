@@ -14,9 +14,9 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 
-	"github.com/MetalBlockchain/apm/checksum"
-	"github.com/MetalBlockchain/apm/state"
-	"github.com/MetalBlockchain/apm/types"
+	"github.com/shubham1dubay/apm/checksum"
+	"github.com/shubham1dubay/apm/state"
+	"github.com/shubham1dubay/apm/types"
 )
 
 func TestInstallExecute(t *testing.T) {

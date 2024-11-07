@@ -13,8 +13,8 @@ import (
 	"github.com/MetalBlockchain/metalgo/utils/perms"
 	"github.com/spf13/afero"
 
-	"github.com/MetalBlockchain/apm/checksum"
-	"github.com/MetalBlockchain/apm/state"
+	"github.com/shubham1dubay/apm/checksum"
+	"github.com/shubham1dubay/apm/state"
 )
 
 var _ Workflow = &Install{}

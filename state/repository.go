@@ -10,8 +10,8 @@ import (
 
 	"gopkg.in/yaml.v3"
 
-	"github.com/MetalBlockchain/apm/git"
-	"github.com/MetalBlockchain/apm/types"
+	"github.com/shubham1dubay/apm/git"
+	"github.com/shubham1dubay/apm/types"
 )
 
 var (
