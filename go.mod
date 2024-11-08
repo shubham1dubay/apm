@@ -3,7 +3,7 @@ module github.com/shubham1dubay/apm
 go 1.18
 
 require (
-	github.com/shubham1dubay/apm v0.0.4
+	//github.com/MetalBlockchain/apm v1.0.0
 	github.com/MetalBlockchain/metalgo v1.7.17-rc.2
 	github.com/cavaliergopher/grab/v3 v3.0.1
 	github.com/go-git/go-git/v5 v5.4.2
@@ -15,6 +15,8 @@ require (
 	github.com/stretchr/testify v1.8.1
 	gopkg.in/yaml.v3 v3.0.1
 )
+
+require github.com/MetalBlockchain/apm v1.0.0
 
 require (
 	github.com/Microsoft/go-winio v0.5.2 // indirect
