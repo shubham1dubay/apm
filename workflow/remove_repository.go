@@ -8,8 +8,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/shubham1dubay/apm/constant"
-	"github.com/shubham1dubay/apm/state"
+	"github.com/MetalBlockchain/apm/constant"
+	"github.com/MetalBlockchain/apm/state"
 )
 
 var _ Workflow = RemoveRepository{}

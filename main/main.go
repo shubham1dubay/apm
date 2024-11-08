@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/afero"
 
-	"github.com/shubham1dubay/apm/cmd"
+	"github.com/MetalBlockchain/apm/cmd"
 )
 
 func main() {

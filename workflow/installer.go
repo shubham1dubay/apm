@@ -9,7 +9,7 @@ import (
 
 	"github.com/spf13/afero"
 
-	"github.com/shubham1dubay/apm/url"
+	"github.com/MetalBlockchain/apm/url"
 )
 
 type Installer interface {

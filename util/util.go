@@ -6,7 +6,7 @@ package util
 import (
 	"strings"
 
-	"github.com/shubham1dubay/apm/constant"
+	"github.com/MetalBlockchain/apm/constant"
 )
 
 func ParseQualifiedName(name string) (source string, plugin string) {
